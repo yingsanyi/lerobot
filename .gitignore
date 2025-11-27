@@ -167,6 +167,8 @@ wandb/
 data/
 outputs/
 datasets/
+data_*/
+results/
 
 # Translations
 *.mo
